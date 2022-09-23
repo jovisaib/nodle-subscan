@@ -1,0 +1,30 @@
+[
+    {
+        "name": "extrinsic_index",
+        "type": "STRING"
+    },
+    {
+        "name": "block_num",
+        "type": "INTEGER"
+    },
+    {
+        "name": "block_timestamp",
+        "type": "TIMESTAMP"
+    },
+    {
+        "name": "from",
+        "type": "STRING"
+    },
+    {
+        "name": "to",
+        "type": "STRING"
+    },
+    {
+        "name": "amount",
+        "type": "FLOAT"
+    },
+    {
+        "name": "success",
+        "type": "BOOLEAN"
+    }
+]
